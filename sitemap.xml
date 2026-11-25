@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url><loc>https://example.com/q1.html</loc></url>
-	<url><loc>https://example.com/q2.html</loc></url>
-	<url><loc>https://example.com/q3.html</loc></url>
-	<url><loc>https://example.com/q4.html</loc></url>
-	<url><loc>https://example.com/q5.html</loc></url>
-</urlset>
+<a href="q1.html">/q1.html</a>
+<a href="q2.html">/q2.html</a>
+<a href="q3.html">/q3.html</a>
+<a href="q4.html">/q4.html</a>
+<a href="q5.html">/q5.html</a> 
